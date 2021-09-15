@@ -42,7 +42,7 @@ nav {
     color: var(--secondary);
     border: none;
     margin: 1rem 0rem;
-    font-family: Ubuntu;
+    font-family: 'Source Sans Pro', sans-serif;
     padding: 1rem 2rem;
     font-size: large;
 }
